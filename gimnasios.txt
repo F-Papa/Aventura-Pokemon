@@ -1,0 +1,85 @@
+G;Gimnasio Pokemon de Ciudad Plateada;1;1
+L;Brock
+P;Geodude;9;24;29
+E;Campista
+P;Onix;24;17;49
+P;Diglett;25;17;10
+P;Sandshrew;13;21;23
+
+G;Gimnasio Pokemon de Ciudad Celeste;2;2
+L;Misty
+P;Staryu;35;21;24
+P;Starmie;56;36;40
+E;Entrenadora Domingera
+P;Goldeen;28;30;27
+E;Nadador
+P;Horsea;24;17;27
+P;Shellder;17;25;37
+
+G;Gimnasio Pokemon de Ciudad Carmin;3;4
+L;Lt. Surge
+P;Voltorb;47;17;26
+P;Pikachu;37;24;15
+P;Raichu;53;48;31
+E;Caballero
+P;Pikachu;46;30;18
+E;Rockero
+P;Voltorb;45;17;25
+P;Magnemite;23;19;23
+P;Voltorb;45;17;25
+
+G;Gimnasio Pokemon de Ciudad Azulona;4;3
+L;Erika
+P;Victreebel;45;65;42
+P;Tangela;33;31;60
+P;Vileplume;34;51;54
+E;Entrenadora Dominguera
+P;Bulbasaur;26;28;28
+P;Ivysaur;33;34;35
+E;Entrenadora Joven
+P;Oddish;18;28;30
+P;Gloom;23;34;35
+E;Entrenadora Guay
+P;Weepinbell;31;34;35
+P;Gloom;24;36;38
+P;Ivysaur;33;34;35
+E;Entrenadora Bella
+P;Exeggcute;25;25;46
+E;Entrenadora Bella
+P;Bellsprout;24;41;21
+P;Bellsprout;24;41;21
+E;Entrenadora Bella
+P;Oddish;17;26;28;
+P;Bellsprout;21;36;19
+P;Oddish;17;26;28;
+P;Bellsprout;21;36;19
+E;Entrenadora Joven
+P;Bellsprout;23;39;21
+P;Weepinbell;30;46;28
+
+G;Gimnasio Pokemon de Ciudad Fucsia;5;5
+L;Koga
+P;Koffing;30;53;75
+P;Koffing;30;53;75
+P;Muk;44;86;108
+P;Weezing;56;82;108
+E;Malabarista
+P;Drowzee;33;37;53
+P;Hypno;50;54;52
+E;Domador
+P;Sandslash;49;73;79
+P;Arbok;59;62;51
+E;Domador
+P;Arbok;59;62;51
+P;Sandslash;49;73;79
+P;Arbok;59;62;51
+E;Malabarista
+P;Drowzee;46;50;48
+P;Drowzee;46;50;48
+P;Kadabra;70;26;23
+P;Drowzee;46;50;48
+E;Malabarista
+P;Hypno;55;60;58
+E;Malabarista
+P;Drowzee;33;37;35
+P;Kadabra;76;28;25
